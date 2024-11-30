@@ -1,4 +1,6 @@
 # Loan Approval Analysis and Prediction
+## Dataset
+The dataset used for this analysis can be found at the following link: [Loan Approval Dataset](https://shorturl.at/CuIXE).
 
 ## Overview
 This project aims to analyze loan approval data and build a predictive model to determine whether a loan application will be approved or denied. The analysis includes exploratory data analysis (EDA) and the implementation of machine learning algorithms to predict loan approval outcomes.
